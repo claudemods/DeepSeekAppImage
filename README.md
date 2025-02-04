@@ -1,6 +1,9 @@
 due to region restrictions
 this website may not work for you please check your current law for your country before accessing this site
 
+Arch Qt6 v1.0 04-02-2025
+
+
 If you like what I'm doing and want to support me to improve, please consider donating.
 Buy me a 🍕🥧 https://www.paypal.com/paypalme/claudemods?country.x=GB&locale
 

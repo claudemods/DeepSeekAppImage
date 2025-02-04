@@ -1,0 +1,2 @@
+# DeepSeekAppImage
+DeepSeekAppImage

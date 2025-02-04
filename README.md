@@ -1,7 +1,9 @@
-due to region restrictions
-this website may not work for you please check your current law for your country before accessing this site
+latest and greatest unofficial DeepSeek AppImage
+qt6 cpp and gtk3 appimage built for arch and debian
+this simply loads the deepseek website 
 
-Arch Qt6 v1.0 04-02-2025
+due to region restrictions 
+this website may not work for you please check your current law for your country before accessing this site
 
 
 If you like what I'm doing and want to support me to improve, please consider donating.

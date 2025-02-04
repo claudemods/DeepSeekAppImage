@@ -41,6 +41,10 @@ this website may not work for you please check your current law for your country
 If you like what I'm doing and want to support me to improve, please consider donating.
 Buy me a 🍕🥧 https://www.paypal.com/paypalme/claudemods?country.x=GB&locale
 
-![2025-02-04-203553_hyprshot](https://github.com/user-attachments/assets/a5576f5f-ceee-4751-9a99-5ca3eee6a2d9)
-![2025-02-04-203137_hyprshot](https://github.com/user-attachments/assets/8a077eab-0f73-4a17-8097-814b230b61df)
+![2025-02-04-203553_hyprshot](https://github.com/user-attachments/assets/bf16196e-5365-43c6-93c3-a252126556d8)
+![2025-02-04-224220_hyprshot](https://github.com/user-attachments/assets/db2acbe0-3fde-415f-b677-67e24caf0b4c)
+![2025-02-04-203137_hyprshot](https://github.com/user-attachments/assets/2c3c87d7-1156-4a9c-a73a-178138d64bb6)
+
+
+
 

@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="750" src="https://i.postimg.cc/BQ347YvN/Arch-Mirror-Changer-1-27-2025.png" alt="logo">
+    <img width="750" src="https://i.postimg.cc/50GtfLkJ/Deep-Seek-App-Image-2-4-2025.png" alt="logo">
 </p>
 
 <div align="center">
